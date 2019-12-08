@@ -5,7 +5,7 @@ App allows users to input a text, changes that text's color to orange, changes b
 
 ### App Walk-though
 
-<img src="https://recordit.co/VDfUhxGsor" width=200><br>
+<img src="http://g.recordit.co/2Xx1Mf7tYz.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
